@@ -1,4 +1,4 @@
-# LSTM model for Storage Budget prediction for PinOps
+# LSTM model for Storage Budget prediction PinOps
 This source code is data from a research paper by sunpark (sunpark@soongsil.ac.kr) titled "Research on Storage Service Operation Models and Cost Prediction by Service Type for Cloud Cost Optimization"
 
 ## 1. Why PinOps
