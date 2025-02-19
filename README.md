@@ -1,7 +1,7 @@
-# LSTM model for Storage Budget prediction PinOps
+# LSTM model for Storage Budget prediction FinOps
 This source code is data from a research paper by sunpark (sunpark@soongsil.ac.kr) titled "Research on Storage Service Operation Models and Cost Prediction by Service Type for Cloud Cost Optimization"
 
-## 1. Why PinOps
+## 1. Why FinOps
 Many cloud migration systems are considering abandoning the cloud due to budget overruns, after using it like a legacy environment.
 To prevent this situation, we are looking to implement an enterprise-wide cost management system using FinOps (https://www.finops.org/).
 
